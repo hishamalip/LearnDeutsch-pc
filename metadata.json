@@ -1,0 +1,8 @@
+{
+  "name": "DeutschMeister A1 - German Training & Grammar",
+  "description": "Interactive German A1 training platform featuring Der Die Das Article Trainer, Full Vocabulary Practice with Audio, and Sentence Builder using official A1 records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
